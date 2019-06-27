@@ -1,0 +1,83 @@
+22/06/2019 11:39:38 p. m.	This log contains information about the import schema operation into project 'GuanatosSoft.Db' on computer 'A88X-HOMEPC' by user 'AngelMoreno'.
+22/06/2019 11:39:38 p. m.	Import of database schema has started.
+22/06/2019 11:39:45 p. m.	Gathering logins
+22/06/2019 11:39:47 p. m.	Gathering database credentials
+22/06/2019 11:39:47 p. m.	Gathering database options
+22/06/2019 11:39:47 p. m.	Gathering generic database scoped configuration option
+22/06/2019 11:39:47 p. m.	Gathering users
+22/06/2019 11:39:47 p. m.	Gathering roles
+22/06/2019 11:39:47 p. m.	Gathering application roles
+22/06/2019 11:39:47 p. m.	Gathering role memberships
+22/06/2019 11:39:47 p. m.	Gathering filegroups
+22/06/2019 11:39:47 p. m.	Gathering full-text catalogs
+22/06/2019 11:39:47 p. m.	Gathering assemblies
+22/06/2019 11:39:47 p. m.	Gathering certificates
+22/06/2019 11:39:47 p. m.	Gathering symmetric keys
+22/06/2019 11:39:47 p. m.	Gathering encrypted symmetric keys
+22/06/2019 11:39:47 p. m.	Gathering schemas
+22/06/2019 11:39:47 p. m.	Gathering XML schema collections
+22/06/2019 11:39:47 p. m.	Gathering user-defined data types
+22/06/2019 11:39:47 p. m.	Gathering user-defined types
+22/06/2019 11:39:47 p. m.	Gathering table types
+22/06/2019 11:39:47 p. m.	Gathering unique keys for table types
+22/06/2019 11:39:47 p. m.	Gathering primary keys for table types
+22/06/2019 11:39:47 p. m.	Gathering indexes for table types
+22/06/2019 11:39:47 p. m.	Gathering check constraints for table types
+22/06/2019 11:39:47 p. m.	Gathering default constraints for table types
+22/06/2019 11:39:48 p. m.	Gathering partition functions
+22/06/2019 11:39:48 p. m.	Gathering partition schemes
+22/06/2019 11:39:48 p. m.	Gathering functions
+22/06/2019 11:39:48 p. m.	Gathering encrypted functions
+22/06/2019 11:39:48 p. m.	Gathering aggregates
+22/06/2019 11:39:48 p. m.	Gathering procedures
+22/06/2019 11:39:48 p. m.	Gathering encrypted procedures
+22/06/2019 11:39:48 p. m.	Gathering tables
+22/06/2019 11:39:48 p. m.	Gathering primary keys
+22/06/2019 11:39:48 p. m.	Gathering unique constraints
+22/06/2019 11:39:48 p. m.	Gathering foreign keys
+22/06/2019 11:39:48 p. m.	Gathering default constraints
+22/06/2019 11:39:49 p. m.	Gathering check constraints
+22/06/2019 11:39:49 p. m.	Gathering views
+22/06/2019 11:39:49 p. m.	Gathering encrypted views
+22/06/2019 11:39:49 p. m.	Gathering indexes
+22/06/2019 11:39:49 p. m.	Gathering statistics
+22/06/2019 11:39:49 p. m.	Gathering full-text index stoplists
+22/06/2019 11:39:49 p. m.	Gathering search property lists
+22/06/2019 11:39:49 p. m.	Gathering search properties
+22/06/2019 11:39:49 p. m.	Gathering full-text indexes
+22/06/2019 11:39:49 p. m.	Gathering column store indexes
+22/06/2019 11:39:49 p. m.	Gathering spatial indexes
+22/06/2019 11:39:49 p. m.	Gathering XML indexes
+22/06/2019 11:39:49 p. m.	Gathering Selective XML indexes
+22/06/2019 11:39:49 p. m.	Gathering encrypted triggers
+22/06/2019 11:39:49 p. m.	Gathering triggers
+22/06/2019 11:39:49 p. m.	Gathering encrypted and clr ddl triggers
+22/06/2019 11:39:49 p. m.	Gathering ddl triggers
+22/06/2019 11:39:49 p. m.	Creating edge constraints
+22/06/2019 11:39:49 p. m.	Gathering synonyms
+22/06/2019 11:39:49 p. m.	Gathering defaults
+22/06/2019 11:39:49 p. m.	Gathering data constraint uddt bindings
+22/06/2019 11:39:49 p. m.	Gathering rules
+22/06/2019 11:39:49 p. m.	Gathering data constraint uddt bindings
+22/06/2019 11:39:49 p. m.	Gathering message types
+22/06/2019 11:39:49 p. m.	Gathering queues
+22/06/2019 11:39:49 p. m.	Gathering contracts
+22/06/2019 11:39:50 p. m.	Gathering services
+22/06/2019 11:39:50 p. m.	Gathering event notifications
+22/06/2019 11:39:50 p. m.	Gathering remote service bindings
+22/06/2019 11:39:50 p. m.	Gathering broker priorities
+22/06/2019 11:39:50 p. m.	Gathering signatures
+22/06/2019 11:39:50 p. m.	Gathering data compression options
+22/06/2019 11:39:50 p. m.	Gathering sequence types
+22/06/2019 11:39:50 p. m.	Gathering security policies
+22/06/2019 11:39:50 p. m.	Gather column encryption keys
+22/06/2019 11:39:50 p. m.	Gathering column master keys
+22/06/2019 11:39:50 p. m.	Gathering external data sources
+22/06/2019 11:39:50 p. m.	Gathering external tables
+22/06/2019 11:39:50 p. m.	Gathering extended properties
+22/06/2019 11:39:52 p. m.	Gathering logins
+22/06/2019 11:39:54 p. m.	Scanning project for duplicate elements
+22/06/2019 11:39:54 p. m.	Finished duplicate element processing
+22/06/2019 11:39:55 p. m.	Finished importing database.
+22/06/2019 11:39:55 p. m.	A summary of the import was saved to the following location: D:\Angel\Soft Development\TiempoDev\GuanatosSoft\Db\GuanatosSoft.Db\Import Schema Logs\GuanatosSoft.Db_20190623043938.log
+22/06/2019 11:39:55 p. m.	Click Finish to continue...

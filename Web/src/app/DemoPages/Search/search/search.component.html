@@ -1,0 +1,38 @@
+<div class="main-card mb-3 card">
+  <div class="card-body"><h5 class="card-title">Restaurants</h5>
+    <div>
+      <form class="form-inline" [formGroup]="searchForm">
+        <div class="mb-2 mr-sm-2 mb-sm-0 position-relative form-group">
+          <label for="text" class="mr-sm-2">Search</label>
+          <input name="text" id="text" placeholder="Name or description" type="text" class="form-control" [class.required-error]="textControl?.errors?.required && showErrors" formControlName="text">
+        </div>
+        <button class="btn btn-primary" (click)="onSearch()">Submit</button>
+      </form>
+    </div>
+  </div>
+</div>
+
+<div class="card main-card mb-3">
+  <div class="card-header">
+    Results
+  </div>
+  <table class="table table-striped">
+    <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Name</th>
+      <th scope="col">Description</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let x of restaurants; index as i">
+      <th scope="row">{{ i + 1 }}</th>
+      <td>{{ x.name }}</td>
+      <td>{{ x.description }}</td>
+      <td>
+        <img [src]="x.mainImageUrl" class="mr-2" style="width: 100px">
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>

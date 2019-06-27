@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <UserSecretsId>fa7833ef-f3e2-40ff-b317-8226e49aac63</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GuanatosSoft.Api.Data\GuanatosSoft.Api.Data.csproj" />
+    <ProjectReference Include="..\GuanatosSoft.Api.Services\GuanatosSoft.Api.Services.csproj" />
+  </ItemGroup>
+
+</Project>
